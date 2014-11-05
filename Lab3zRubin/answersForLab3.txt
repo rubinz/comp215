@@ -1,0 +1,56 @@
+5:	nothing was printed to screen
+
+6:	I was  notified that the constructor for the monkey class that takes a bool was called, 	and the ctor for the ape class that takes a bool was called in that respective order.
+7: 	the function eatBanana from class ape was called.
+
+8:	the following ctors were called: parrot that takes nothing, monkey that takes nothing, ape that takes nothing, and human that takes nothing.
+
+9:	this worked (ran), and called the destructor for the monkey class. 
+
+10:	monkey got to scratch head in the human class.
+
+11:	ape got to scratchHead in human class
+
+12:	monkey got to eatBanana in the human class
+
+13:	ape got to eatBanana in the human class
+
+14: I get the error saying "invalid conversion from 'ape*' to 'human*'". fixed it and it 		works now. doesnt have any output though.
+
+15: worked and gave the following output:
+	the destructor for class human was called
+
+	the destructor for class ape was called
+
+	the destructor for class monkey was called
+
+	the destructor for class parrot was called
+
+	the ctor for class parrot that takes a charecter pointer
+
+	the ctor for class monkey that takes a bool
+
+	im the ctor from ape that takes a bool
+
+	the human ctor that takes a bool and char
+
+16: got the talk function for the parrot class.
+
+17: got the following output:
+	the destructor for class human was called
+
+	the destructor for class ape was called
+
+	the destructor for class monkey was called
+
+	the destructor for class parrot was called
+
+	the ctor for parrot that takes nothing
+
+	the ctor for class monkey that takes a bool
+
+	im the ctor from ape that takes a bool
+
+	the human ctor that takes bool
+
+18: 
